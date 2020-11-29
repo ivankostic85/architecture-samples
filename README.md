@@ -1,4 +1,5 @@
 ## ivan testing app center
+[![Build status](https://build.appcenter.ms/v0.1/apps/fccf921d-fa81-4500-ad1b-cd06d60e22d7/branches/build-test/badge)](https://appcenter.ms)
 
 # Android Architecture Blueprints v2
 <p align="center">
